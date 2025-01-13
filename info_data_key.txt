@@ -1,0 +1,12 @@
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Ali Abbas\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 1A:16:C5:4E:17:F6:E0:88:DF:A3:91:A7:B6:95:88:38
+SHA1: 3C:9C:C7:65:4A:F1:6B:FC:27:2D:05:68:8E:1D:82:67:4E:B2:E0:E4
+SHA-256: 08:49:99:A7:C2:A0:25:6A:76:A9:7D:F2:D1:B1:19:4F:68:3A:4E:F5:0A:00:7C:90:A5:A9:21:99:26:4D:0A:88
+Valid until: Thursday, August 13, 2054
+
+
+
+com.example.glamify

@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "489774219154",
+    "firebase_url": "https://fyp-12e7a-default-rtdb.firebaseio.com",
+    "project_id": "fyp-12e7a",
+    "storage_bucket": "fyp-12e7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489774219154:android:377099184c452854ec0b4b",
+        "android_client_info": {
+          "package_name": "com.example.fypapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489774219154-rmospo5hitu20j52n21jv197iqhjfsov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fypapp",
+            "certificate_hash": "3c9cc7654af16bfc272d05688e1d82674eb2e0e4"
+          }
+        },
+        {
+          "client_id": "489774219154-131ekh92jre2i5ao5f87uhq5qe3ljslh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoqrybXF-ti-FQYsadKCkIpv1LVqvIuhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489774219154-131ekh92jre2i5ao5f87uhq5qe3ljslh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "489774219154-urmppc1d7nbbk8fc6orsb09kl68u46r1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fypapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489774219154:android:69684905a83e0aefec0b4b",
+        "android_client_info": {
+          "package_name": "com.example.glamify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489774219154-131ekh92jre2i5ao5f87uhq5qe3ljslh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoqrybXF-ti-FQYsadKCkIpv1LVqvIuhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489774219154-131ekh92jre2i5ao5f87uhq5qe3ljslh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "489774219154-urmppc1d7nbbk8fc6orsb09kl68u46r1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fypapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
